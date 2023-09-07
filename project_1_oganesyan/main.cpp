@@ -6,8 +6,8 @@ int main()
 {
 	string symb;
 	cout << "Hello World!" <<  endl;
-	cout << "Enter symbol:";
+	cout << "Enter symbols:";
 	cin >> symb;
-	cout << "Entered symbol: " << symb << endl;
+	cout << "Entered symbols: " << symb << endl;
 	return 0;
 }
